@@ -6,7 +6,7 @@ I work across the full data stack for a Fortune 500 consumer goods business — 
 
 - 🔧 **Projects:** ingestion → transformation → reporting — see the full pipeline on [my portfolio](https://shantanudash12.github.io)
 - 🏅 **Certified:** Azure Data Engineer Associate · Databricks Data Engineer Associate · Azure Data Fundamentals · AWS Cloud Practitioner · Azure Fundamentals
-- 📫 **Reach me:** your-email@example.com · [LinkedIn](https://linkedin.com/in/your-profile)
+- 📫 **Reach me:** shantanudash1211@gmail.com · [LinkedIn](https://www.linkedin.com/in/shantanu-dashasahastra-380256222/)
 
 ---
 
