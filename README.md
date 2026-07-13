@@ -21,6 +21,19 @@ I design and maintain enterprise-scale analytics dashboards for a living — and
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
+
+<div align="center">
+  
+| ![Shantanu's github stats](https://github-readme-stats.vercel.app/api?username=shantanudash12&count_private=true&hide=issues&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanudash12&layout=compact&theme=radical)](https://github.com/shantanudash12/github-readme-stats)
+|-|-|
+  
+</div>
+<div align="center">
+  <img height="180em" style="max-width:100%;" src="https://github-readme-streak-stats.herokuapp.com?user=shantanudash12&theme=radical">
+</div>
+
+
+
 ---
 
 <sub>💡 Once you have a few repos with commits, you can add a GitHub stats card here (search "github-readme-stats") — it looks a little empty on day one, so I've left it out for now.</sub>
