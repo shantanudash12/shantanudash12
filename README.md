@@ -22,4 +22,15 @@ I work across the full data stack for a Fortune 500 consumer goods business — 
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shantanudash12&show_icons=true&theme=transparent&hide_border=true&title_color=f2a93b&icon_color=45c7b8&text_color=8a94a3)
+<!--    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shantanudash12&show_icons=true&theme=transparent&hide_border=true&title_color=f2a93b&icon_color=45c7b8&text_color=8a94a3) -->
+
+
+<div align="center">
+  
+| ![Shantanu's github stats](https://github-readme-stats.vercel.app/api?username=shantanudash12&count_private=true&hide=issues&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanudash12&layout=compact&theme=radical)](https://github.com/shantanudash12/github-readme-stats)
+|-|-|
+  
+</div>
+<div align="center">
+  <img height="180em" style="max-width:100%;" src="https://github-readme-streak-stats.herokuapp.com?user=shantanudash12&theme=radical">
+</div>
